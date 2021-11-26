@@ -6,6 +6,10 @@ Final Capstone Project for Udacity
 - Arvato Bertelsmann are a well known company and the reason I chose this specific project is because I thought the data and objective was the most interesting. 
 - The requirement of working on both unsupervised and supervised Machine Learning interested me. 
 
+**Blog Post** 
+My blog post on this project can be viewed by following this link: 
+https://medium.com/@skava88/customer-segmentation-report-for-arvato-financial-services-4e4e2be461ca
+
 **Libraries used**
 - The main libraries used are:
   - numpy: scientific computing tools
