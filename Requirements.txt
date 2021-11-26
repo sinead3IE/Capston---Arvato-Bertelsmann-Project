@@ -1,27 +1,7 @@
-import numpy as np
-import pandas as pd
-import matplotlib.pyplot as plt
-import seaborn as sns
-
-
-from sklearn.preprocessing import StandardScaler, MinMaxScaler
-
-from sklearn.model_selection import train_test_split
-from sklearn.model_selection import StratifiedKFold
-from sklearn.model_selection import GridSearchCV
-
-from sklearn.pipeline import Pipeline
-from sklearn.compose import ColumnTransformer
-from sklearn.decomposition import PCA
-from sklearn.preprocessing import Imputer
-from sklearn.cluster import KMeans
-
-
-from sklearn.ensemble import RandomForestClassifier, GradientBoostingClassifier
-from sklearn.model_selection import learning_curve
-from sklearn.model_selection import GridSearchCV
-from sklearn.metrics import roc_auc_score
-
-from scipy import stats
-from time import time
-import os, math, time, random, datetime
+numpy 
+pandas 
+matplotlib
+seaborn 
+sklearn.
+scipy
+time 
